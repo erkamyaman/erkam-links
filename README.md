@@ -13,7 +13,12 @@
 
 ## Projects
 
-- [slide.ng](https://github.com/slide-ng/slide.ng): markdown slides with Angular templates
+- [slide.ng](https://slide-ng.dev): Slidev-style slides in markdown with Angular
+- [Capacitor Foldable](https://erkamyaman.github.io/capacitor-foldable/): fold state, hinge angle and iPhone Duo support for Capacitor apps
+- [Pangular Inspector](https://pangular-inspector.dev): the unified Angular DevTools, with Santosh Yadav
+- [Angular docs in Turkish](https://angular-docs.tr): translating the Angular docs into Turkish
+- [Angular Native](https://github.com/ng-native/ng-native/pulls?q=sort%3Aupdated-desc+is%3Apr+state%3Aclosed+author%3Aerkamyaman): contributing to Ashley Hunter's Angular Native
+- [Angular](https://github.com/angular/angular/pulls?q=sort%3Aupdated-desc+is%3Apr+state%3Aclosed+author%3Aerkamyaman): contributing daily to the docs and docs-infra
 
 ## Angular guides
 
