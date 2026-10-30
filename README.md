@@ -3,7 +3,7 @@
 ## Me
 
 - GitHub: [github.com/erkamyaman](https://github.com/erkamyaman)
-- X: [x.com/erkamyaman_ng](https://x.com/erkamyaman_ng)
+- Twitter: [x.com/erkamyaman_ng](https://x.com/erkamyaman_ng)
 - LinkedIn: [linkedin.com/in/erkamyaman](https://www.linkedin.com/in/erkamyaman/)
 
 ## Skills for contributing
