@@ -1,7 +1,5 @@
 # erKam
 
-Links from my talk "Open Source 101 with Angular".
-
 ## Me
 
 - GitHub: [github.com/erkamyaman](https://github.com/erkamyaman)
